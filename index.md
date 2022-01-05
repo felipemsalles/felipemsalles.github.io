@@ -14,17 +14,17 @@ gallery:
 * * *
 ## Publications and Articles
 
-**Felipe Salles** Try Hack Me CTF - Introductory Research[LINK](https://blogfelipe.com/ctf/introductory-research/), October 2, 2021. 
+**Felipe Salles**:Try Hack Me CTF - Introductory Research [LINK](https://blogfelipe.com/ctf/introductory-research/), October 2, 2021. 
 
-**Felipe Salles** Do you need a lot to get started in IT?[LINK](https://blogfelipe.com/opinions/Do-you-need-a-lot-to-get-started-in-IT/), July 3, 2021.  
+**Felipe Salles**:Do you need a lot to get started in IT? [LINK](https://blogfelipe.com/opinions/Do-you-need-a-lot-to-get-started-in-IT/), July 3, 2021.  
 
-**Felipe Salles** What programming language you should learn?[LINK](https://blogfelipe.com/programming/What-programming-language-you-should-learn/), June 4, 2021.
+**Felipe Salles**:What programming language you should learn? [LINK](https://blogfelipe.com/programming/What-programming-language-you-should-learn/), June 4, 2021.
 
-**Felipe Salles** Code in Place - Stanford 2020[LINK](https://blogfelipe.com/experiences/code-in-place/), July 3, 2020.  
+**Felipe Salles**:Code in Place - Stanford 2020 [LINK](https://blogfelipe.com/experiences/code-in-place/), July 3, 2020.  
 
-**Felipe Salles** The impacts of crises in the Digital Revolution[LINK](https://blogfelipe.com/opinions/The-impacts-of-crises-in-the-Digital-Revolution/), March 26, 2020.
+**Felipe Salles**:The impacts of crises in the Digital Revolution [LINK](https://blogfelipe.com/opinions/The-impacts-of-crises-in-the-Digital-Revolution/), March 26, 2020.
 
-More details and articles on my blog [LINK](https://blogfelipe.com).
+More details and articles on **my blog** [LINK](https://blogfelipe.com).
 
 * * *
 ## Practical Experiences and Personal Projects
@@ -47,10 +47,10 @@ Personal Projects:
 * * *
 ## Certifications
 Currently:
-  * Studying for eLearnSecurity Junior Penetration Tester(eJPT)
+  * Studying for eLearnSecurity Junior Penetration Tester (eJPT)
 * CS50 Introduction to Computer Science - Harvard University
-* Cybersecurity Essentials(Cisco Networking Academy)
-* Introduction to Cybersecurity(Cisco Networking Academy)
+* Cybersecurity Essentials (Cisco Networking Academy)
+* Introduction to Cybersecurity (Cisco Networking Academy)
 * FCE (First Certificate in English) - Cambridge 
 
 * * *
