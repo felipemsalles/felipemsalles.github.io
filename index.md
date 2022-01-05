@@ -29,25 +29,29 @@ More details and articles on **my blog** [LINK](https://blogfelipe.com).
 * * *
 ## Practical Experiences and Personal Projects
 Practical Experiences:
+
 * Black Hat Python projects: Building a GitHub-Aware Trojan, Keylogging for Fun and Keystrokes, Taking Screenshots, Pythonic Shellcode Execution, Sandbox Detection, Creating a Process Monitor, Process Monitoring with WMI, Windows Token Privileges, Code Injection, etc.
 * IBM Behind the Code: talk about it.
 * Code in Place Stanford: talk about it.
 
 Personal Projects:
+
 * My blog: Talk about it.
 * Felipe Talks: Talk about it.
 * My github practical projects [HERE](https://github.com/felipemsalles).
 
 * * *
 ## University Iniciatives and Activities
-* Edit efficiently detects and edit unexpected services running on unexpected ports. Edit can detect up 0 unique protocols simoultaneously with just two extra packets and can fingerprint over 00 different protocols.
+* Edit.
 
-* Edit uses password generation algorithms to discover publicly accessible edit storage buckets.
+* Edit.
 
 * * *
 ## Certifications
 Currently:
-  * Studying for eLearnSecurity Junior Penetration Tester (eJPT)
+* Studying for eLearnSecurity Junior Penetration Tester (eJPT)
+
+
 * CS50 Introduction to Computer Science - Harvard University
 * Cybersecurity Essentials (Cisco Networking Academy)
 * Introduction to Cybersecurity (Cisco Networking Academy)
