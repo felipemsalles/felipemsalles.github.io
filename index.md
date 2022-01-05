@@ -24,7 +24,7 @@ gallery:
 
 **Felipe Salles** The impacts of crises in the Digital Revolution[LINK](https://blogfelipe.com/opinions/The-impacts-of-crises-in-the-Digital-Revolution/), March 26, 2020.
 
-More details and articles on my blog[LINK](https://blogfelipe.com)
+More details and articles on my blog [LINK](https://blogfelipe.com).
 
 * * *
 ## Practical Experiences and Personal Projects
@@ -32,10 +32,11 @@ Practical Experiences:
 * Black Hat Python projects: Building a GitHub-Aware Trojan, Keylogging for Fun and Keystrokes, Taking Screenshots, Pythonic Shellcode Execution, Sandbox Detection, Creating a Process Monitor, Process Monitoring with WMI, Windows Token Privileges, Code Injection, etc.
 * IBM Behind the Code: talk about it.
 * Code in Place Stanford: talk about it.
+
 Personal Projects:
 * My blog: Talk about it.
 * Felipe Talks: Talk about it.
-* My github practical projects [HERE](https://github.com/felipemsalles)
+* My github practical projects [HERE](https://github.com/felipemsalles).
 
 * * *
 ## University Iniciatives and Activities
@@ -51,6 +52,7 @@ Currently:
 * Cybersecurity Essentials(Cisco Networking Academy)
 * Introduction to Cybersecurity(Cisco Networking Academy)
 * FCE (First Certificate in English) - Cambridge 
+
 * * *
 ## Hobbies
 
