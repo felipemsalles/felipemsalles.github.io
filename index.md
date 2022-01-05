@@ -48,9 +48,7 @@ Personal Projects:
 
 * * *
 ## Certifications
-Currently:
-* Studying for eLearnSecurity Junior Penetration Tester (eJPT)
-
+Currently: **Studying for eLearnSecurity Junior Penetration Tester (eJPT)** 
 
 * CS50 Introduction to Computer Science - Harvard University
 * Cybersecurity Essentials (Cisco Networking Academy)
