@@ -31,20 +31,22 @@ More details and articles on [my blog](https://blogfelipe.com).
 Practical Experiences:
 
 * Black Hat Python projects: Building a GitHub-Aware Trojan, Keylogging for Fun and Keystrokes, Taking Screenshots, Pythonic Shellcode Execution, Sandbox Detection, Creating a Process Monitor, Process Monitoring with WMI, Windows Token Privileges, Code Injection, etc.
-* IBM Behind the Code: talk about it.
-* Code in Place Stanford: talk about it.
+* IBM Behind the Code: IBM programming marathon.
+* Code in Place Stanford: Course offered during pandemic by Stanford with online classes and interaction between students and volunteers.
 
 Personal Projects:
 
-* My blog: Talk about it.
-* Felipe Talks: Talk about it.
+* My blog: I love to help other people learn and share my opinions. That's why I created my blog.
+* Felipe Talks: It's a project created to talk about technology, cybersecurity, computer science and this whole universe, with the objective of helping the Brazilian community and more people to get started in the field.
 * My github practical projects [HERE](https://github.com/felipemsalles).
 
 * * *
 ## University Iniciatives and Activities
-* Edit.
+* Volunteer at Congress of the Brazilian Computer Society 2022 (CSBC).
 
-* Edit.
+* Health Platform developed with my group for HIV patients.
+
+* Walking stick developed with my group only using a few cheap components.
 
 * * *
 ## Certifications
