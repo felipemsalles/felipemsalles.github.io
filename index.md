@@ -24,7 +24,7 @@ gallery:
 
 **Felipe Salles**:The impacts of crises in the Digital Revolution [LINK](https://blogfelipe.com/opinions/The-impacts-of-crises-in-the-Digital-Revolution/), March 26, 2020.
 
-More details and articles on **my blog** [LINK](https://blogfelipe.com).
+More details and articles on [my blog](https://blogfelipe.com).
 
 * * *
 ## Practical Experiences and Personal Projects
@@ -48,7 +48,7 @@ Personal Projects:
 
 * * *
 ## Certifications
-Currently: **Studying for eLearnSecurity Junior Penetration Tester (eJPT)** 
+* Currently: **Studying for eLearnSecurity Junior Penetration Tester (eJPT)** 
 
 * CS50 Introduction to Computer Science - Harvard University
 * Cybersecurity Essentials (Cisco Networking Academy)
