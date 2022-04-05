@@ -43,7 +43,6 @@ Personal Projects:
 
 * * *
 ## University Iniciatives and Activities
-* Ganesh Team USP Collaborator. Ganesh is an extracurricular group at the University of São Paulo (USP). Our mission is to acquire and disseminate knowledge in the area of information security to undergraduate students and the general community. This is accomplished by developing teaching materials in classrooms, specialized courses, workshops in public and private schools, competing on CTFs, participating in events, and through project design.
 
 * Volunteer at Congress of the Brazilian Computer Society 2022 (CSBC). The Congress of the Brazilian Computer Society (CSBC) is an event held annually since 1980 by SBC and aims to integrate the Brazilian Computing community, promotes and encourages the exchange of experiences between the scientific, academic and professional communities.
 
