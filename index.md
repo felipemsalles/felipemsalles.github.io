@@ -46,6 +46,8 @@ Personal Projects:
 
 * Volunteer at Congress of the Brazilian Computer Society 2022 (CSBC). The Congress of the Brazilian Computer Society (CSBC) is an event held annually since 1980 by SBC and aims to integrate the Brazilian Computing community, promotes and encourages the exchange of experiences between the scientific, academic and professional communities.
 
+* Neodroid is a game developed by Rodrigo Barroso, **Felipe Salles** and Vitória Guidine for the subject Lab of Games 2021.1 of Universidade Federal Fluminense's Computer Science course. Neodroid is a game contextualized in a dystopian future that is passing by an robot vs human war, and it's up to Ada, an intelligent cyborg, programmed to kill other machines, solve the problem. But... what makes her different from the other robots? What makes her different from the humans? It's up to her to decide it... or isn't? [LINK](https://rbarroso.itch.io/neodroid).
+
 * Health Website Platform developed with my university group for HIV patients. Stacks: Javascript.
 
 * Walking stick developed with my university group only using a few cheap components. Hardware only.
